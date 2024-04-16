@@ -18,3 +18,4 @@ sentence-transformers>=2.2.0
 transformers>=4.31.0
 chromadb==0.4.18
 jupyter==1.0.0
+pandas==2.2.1
